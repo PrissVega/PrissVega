@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrissVega
 - 👀 I’m interested in Software testing optimization
-- 🌱 I’m currently learning Mastering Cypress and other software quality management tools
+- 🌱 I’m currently learning Mastering Cypress, Playwright and other software quality management tools
 - 💞️ I’m looking to collaborate on GitHub and LinkedIn
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/priscila-vega-delgado-211970aa/
 - ⚡ Fun fact: I have a black kitty named Luci, I love coffee and playing LOL
